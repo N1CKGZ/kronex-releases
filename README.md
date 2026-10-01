@@ -5,7 +5,7 @@
   # KRONEX ACADEMIC OS
   ### El sistema operativo académico personal para estudiantes
 
-  [![Version](https://img.shields.io/badge/Versi%C3%B3n-0.5.0--beta09-0ea5e9?style=for-the-badge&logo=android&logoColor=white)](https://github.com/N1CKGZ/kronex-releases/releases/latest)
+  [![Version](https://img.shields.io/badge/Versi%C3%B3n-0.5.0--beta10-0ea5e9?style=for-the-badge&logo=android&logoColor=white)](https://github.com/N1CKGZ/kronex-releases/releases/latest)
   [![Platform](https://img.shields.io/badge/Plataforma-Android%208.0%2B-10b981?style=for-the-badge&logo=android)](https://github.com/N1CKGZ/kronex-releases/releases/latest)
   [![Status](https://img.shields.io/badge/Estado-Beta%20P%C3%BAblica-0284c7?style=for-the-badge)](https://kronexacademic.com)
   [![Sitio Oficial](https://img.shields.io/badge/Web-kronexacademic.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kronexacademic.com)
@@ -17,7 +17,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/N1CKGZ/kronex-releases/releases/download/v0.5.0-beta09/KronexV1.apk">
+    <a href="https://github.com/N1CKGZ/kronex-releases/releases/download/v0.5.0-beta10/KronexV1.apk">
       <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DESCARGAR%20APK%20OFICIAL%20(BETA)-0284C7?style=for-the-badge&logoColor=white" height="42" alt="Descargar APK" />
     </a>
     &nbsp;&nbsp;
@@ -111,7 +111,7 @@ En el centro de KRONEX vive **Kron**, una agenda académica viva que actúa como
 Instalar la beta de KRONEX toma menos de 1 minuto:
 
 1. **Descarga el APK:**  
-   Pulsa en [Descargar APK Oficial](https://github.com/N1CKGZ/kronex-releases/releases/download/v0.5.0-beta09/KronexV1.apk) para guardar `KronexV1.apk` en tu dispositivo.
+   Pulsa en [Descargar APK Oficial](https://github.com/N1CKGZ/kronex-releases/releases/download/v0.5.0-beta10/KronexV1.apk) para guardar `KronexV1.apk` en tu dispositivo.
 
 2. **Permite la instalación:**  
    Si Android te muestra una advertencia preventiva sobre archivos externos, toca en **Configuración** y activa la opción **«Permitir desde esta fuente»** (puedes desactivarla después si lo deseas).
@@ -128,11 +128,11 @@ Instalar la beta de KRONEX toma menos de 1 minuto:
 | Atributo | Detalle |
 | :--- | :--- |
 | **Archivo** | `KronexV1.apk` |
-| **Versión** | `0.5.0-beta09-dev` |
+| **Versión** | `0.5.0-beta10-dev` |
 | **Package ID** | `com.kronexacademic.kronex.dev` |
 | **Arquitecturas** | `arm64-v8a`, `armeabi-v7a`, `x86_64` |
 | **Requisito mínimo** | Android 8.0 (Oreo) o superior |
-| **SHA-256 Checksum** | `40ffc39061fc0a9fd6cbe342744e2f052082363522be5b0750e02fd698ce72bf` |
+| **SHA-256 Checksum** | `78338f1de8fc4fec555a17bbe4f364bf197bb79b97d641a0c8b2cce331822906` |
 
 ---
 
